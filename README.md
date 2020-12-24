@@ -1,3 +1,12 @@
 # myProject
+
+
+
+
 text to learn
-##project notes
+
+
+
+
+
+## project notes
